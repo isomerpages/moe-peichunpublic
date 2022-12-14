@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - MOE Related Links.md
       - Student Related Links.md
       - Parent Support Group.md
       - Staff Appreciation&Recognition/Staff Appreciation & Recognition
