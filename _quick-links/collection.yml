@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Staff Appreciation&Recognition/Submit a nomination!.md
       - Staff Appreciation&Recognition/STAR Notes from Parents and Students.md
       - Staff Appreciation&Recognition/.keep
