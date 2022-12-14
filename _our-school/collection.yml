@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our people/Executive and Administration Staff (Support Staff).md
       - Our people/Alumni.md
       - Our people/Parent Support Group.md
       - Our people/.keep
