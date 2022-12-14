@@ -2,6 +2,7 @@ collections:
   the-pei-chun-experience:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - iREAD Programme.md
       - Sexuality Education in School.md
       - Home Based Learning – Student Learning Space.md
