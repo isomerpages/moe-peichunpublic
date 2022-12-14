@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - IP Department/.keep
+      - Co IP Department/Character & Citizenship Education.md
       - Co IP Department/Innovation & Information Communication Technologies.md
       - Co IP Department/Student Management.md
       - Co IP Department/.keep
