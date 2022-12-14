@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our heritage/School Song.md
       - Our heritage/School Heritage.md
       - Our heritage/.keep
       - Our people/School Management Committee.md
