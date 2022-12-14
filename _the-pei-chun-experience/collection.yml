@@ -2,6 +2,7 @@ collections:
   the-pei-chun-experience:
     output: true
     order:
+      - PAL Programme.md
       - Special Assistance Programme.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
