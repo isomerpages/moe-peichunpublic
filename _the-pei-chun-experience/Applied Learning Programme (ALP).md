@@ -3,6 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /the-pei-chun-experience/alp/
 description: ""
 ---
+29 June 2021<br>
 **Applied Learning Programme – Bilingual Media Studies Programme (BMSP)**
 
 **应用学习项目－双语传媒课程**
