@@ -2,4 +2,4 @@ collections:
   departments:
     output: true
     order:
-      - Co Ip department/.keep
+      - Co IP department/.keep
