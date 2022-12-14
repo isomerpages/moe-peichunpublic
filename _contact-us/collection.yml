@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - Vendors Contact Information.md
       - School Contact Information.md
       - Students’ Pick–Up And Drop–Off (PUDO) Points.md
       - Information for Visitors.md
