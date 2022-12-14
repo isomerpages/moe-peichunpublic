@@ -1,4 +1,5 @@
 collections:
   our-school:
     output: true
-    order: []
+    order:
+      - Consent for photography and videos.md
