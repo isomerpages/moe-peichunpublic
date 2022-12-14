@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - IP Department/.keep
+      - Co IP Department/Student Management.md
       - Co IP Department/.keep
