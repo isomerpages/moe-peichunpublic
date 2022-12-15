@@ -19,11 +19,12 @@ sections:
           description: Detailed Curriculum Structure
           url: /school-hours/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Latest Updates
+      description: Gear up for School 2023!
+      button: more information here
       alt: Image alt text
+      url: /latest-updates/school-bus-service/
+      image: /images/School-Bus.jpg
   - infobar:
       title: Connect with our Facebook!
       subtitle: facebook
