@@ -2,6 +2,6 @@ collections:
   latest-updates:
     output: true
     order:
+      - School Bus Service for 2023.md
       - Vendors Opening Hours.md
       - Staff Recognition.md
-      - School Bus Service for 2023.md
