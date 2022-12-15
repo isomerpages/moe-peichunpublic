@@ -12,7 +12,7 @@ _Updated on 09 April 2020._
 
 The twin goals of Science Education in Singapore are to enthuse and nurture scientifically literate students who can make informed decisions and to provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work. These goals are represented by the tagline Science for Life and Society and are central to the revised Science Curriculum Framework.
 
-![](https://peichunpublic.moe.edu.sg/wp-content/uploads/2020/04/map.jpg)
+![](/images/sciencemap.jpg)
 
 In line with the framework, the Science Department aims to inspire students to seek scientific knowledge and understanding with application, develop skills and attitudes for scientific inquiry and innovation, and build their foundation in scientific ethics.
 
