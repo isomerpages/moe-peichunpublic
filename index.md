@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/homepcps.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Applied learning Programme
+          description: Learn more about ALP-BMSP!
+          url: /the-pei-chun-experience/alp/
+        - title: Learning for LIFE programme
+          description: Know more about LLP
+          url: /the-pei-chun-experience/llp/
         - title: School Hours
           description: Detailed Curriculum Structure
           url: /school-hours/
@@ -24,9 +24,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: latest updates
-      description: Infobar description
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
 ---
