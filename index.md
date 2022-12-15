@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Pei Chun Public School
 description: An Isomer site of the Singapore Government
 image: /images/site-logo.jpg
 permalink: /
@@ -35,3 +35,4 @@ sections:
         clipboard-write; encrypted-media; picture-in-picture;
         web-share”></iframe>
 ---
+
