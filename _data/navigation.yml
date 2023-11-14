@@ -1,0 +1,12 @@
+logo: /images/site-logo.jpg
+links:
+  - title: our school
+    collection: our-school
+  - title: departments
+    collection: departments
+  - title: the pei chun experience
+    collection: the-pei-chun-experience
+  - title: contact us
+    collection: contact-us
+  - title: quick links
+    collection: quick-links

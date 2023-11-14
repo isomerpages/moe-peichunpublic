@@ -1,0 +1,12 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - MOE Related Links.md
+      - Student Related Links.md
+      - Parent Support Group.md
+      - Staff Appreciation&Recognition/Staff Appreciation & Recognition
+        Overview.md
+      - Staff Appreciation&Recognition/Submit a nomination!.md
+      - Staff Appreciation&Recognition/STAR Notes from Parents and Students.md
+      - Staff Appreciation&Recognition/.keep

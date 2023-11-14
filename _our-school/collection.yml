@@ -1,0 +1,17 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our heritage/Mission, Vision & Values.md
+      - Our heritage/School Song.md
+      - Our heritage/School Heritage.md
+      - Our heritage/.keep
+      - Our people/School Management Committee.md
+      - Our people/Key Personnel 2022.md
+      - Our people/Teaching Staff.md
+      - Our people/Executive and Administration Staff (Support Staff).md
+      - Our people/Alumni.md
+      - Our people/Parent Support Group.md
+      - Our people/.keep
+      - Consent for photography and videos.md

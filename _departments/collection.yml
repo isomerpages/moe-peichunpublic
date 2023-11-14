@@ -1,0 +1,15 @@
+collections:
+  departments:
+    output: true
+    order:
+      - IP Department/English.md
+      - IP Department/Mathematics.md
+      - IP Department/Science.md
+      - IP Department/Chinese  华文部.md
+      - IP Department/PE (CCA).md
+      - IP Department/Aesthetics.md
+      - IP Department/.keep
+      - Co IP Department/Character & Citizenship Education.md
+      - Co IP Department/Innovation & Information Communication Technologies.md
+      - Co IP Department/Student Management.md
+      - Co IP Department/.keep
